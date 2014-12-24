@@ -4,7 +4,7 @@
       "unknown"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -46,5 +46,5 @@
          "url" : "http://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
